@@ -17,4 +17,10 @@ Too anxious to fall asleep at night...
 
 Apr 16: 
 Purchased a new Macbook Pro on Apple.com. It will be delivered after May 24th. Cannot wait! (\ANGRY)
+Failed to complete the coding challenge for 'Hack Reacter' bootcamp, which is actually my goal for last day. But it's OK since it's on weekend. 
+
+Apr 17: 
+Failed to fall asleep again last night. 
+Saw someone posted an article saying that less than 10% of the Chinese MPP student in Harris found a job in the US. I was kinda disappointed and discouraged. I think I do not have a CS master degree, and I learn all the things not systematically. I also lack some project experience. Even not clear about my career goal. Why am I outstanding among all talented candidates? Passion? Does my passion really matters so much that can make me outstanding? I also need work permit, which makes it even more difficult to find a SDE job and stay in the US. But what can I do? The only thing that I can do is to continue learning, continue searching for projects, continue being anxious. The only way to get through is to not thinking too much and just do it. I CAN DO IT. 
+
 
