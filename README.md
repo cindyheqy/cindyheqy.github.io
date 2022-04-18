@@ -26,3 +26,7 @@ Saw someone posted an article saying that less than 10% of the Chinese MPP stude
 生活磨平了我的棱角
 可我还是想做个小孩
 
+Made an appointment for the tech interview of Hack Reactor bootcamp. And completed non-tech assessment for App Academy. 
+Considering transfer to a CS master program. Made appointment to talk with MPCS admission specialst on Tuesday and talk with academic advisor on Thursday. 
+Also considering other CS master program like NEU. But the title is not so good (tbh). 
+
