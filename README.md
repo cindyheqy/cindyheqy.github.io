@@ -49,9 +49,11 @@ Always hesitate, afraid to take risk. <br>
 The bad thing: I know this is not I want now. <br> 
 The good thing is: At least I know what I want and a way to pursue. <br> 
 
+<!-- 
 你说 他们毕业之后会去哪呢？也会各有各的烦恼吧<br> 
 就当我是个晚熟的孩子吧<br> 
 要有承担一切后果的勇气<br> 
 有那么多人努力了还是很难<br> 
 我也轻而易举得到过很多别人没有机会拥有的东西<br> 
 安慰自己每一个选择都是当下最好的选择吧<br> 
+-->
