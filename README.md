@@ -38,20 +38,20 @@ Apr 19: <br>
 Sitting in the dt gleacher classrom. <br> 
 Taking accounting as background music. <br> 
 Looking around:   <br> 
-All elites with booth name tag. 
-Browsing 1acre3points. 
-Thinking: Do I really love these things? 
-Suddenly feel like I am a loser. 
-Too many thoughts, too few actions. 
-High intellegence, low social skills. 
-Always hesitate, afraid to take risk. 
+All elites with booth name tag. <br> 
+Browsing 1acre3points. <br> 
+Thinking: Do I really love these things? <br> 
+Suddenly feel like I am a loser. <br> 
+Too many thoughts, too few actions. <br> 
+High intellegence, low social skills. <br> 
+Always hesitate, afraid to take risk. <br> 
 
-The bad thing: I know this is not I want now. 
-The good thing is: At least I know what I want and a way to pursue. 
+The bad thing: I know this is not I want now. <br> 
+The good thing is: At least I know what I want and a way to pursue. <br> 
 
-你说 他们毕业之后会去哪呢？也会各有各的烦恼吧
-就当我是个晚熟的孩子吧
-要有承担一切后果的勇气
-有那么多人努力了还是很难
-我也轻而易举得到过很多别人没有机会拥有的东西
-安慰自己每一个选择都是当下最好的选择吧
+你说 他们毕业之后会去哪呢？也会各有各的烦恼吧<br> 
+就当我是个晚熟的孩子吧<br> 
+要有承担一切后果的勇气<br> 
+有那么多人努力了还是很难<br> 
+我也轻而易举得到过很多别人没有机会拥有的东西<br> 
+安慰自己每一个选择都是当下最好的选择吧<br> 
