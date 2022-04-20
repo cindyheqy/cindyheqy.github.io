@@ -34,10 +34,10 @@ Apr 18:
 Had a phone call with Bri and scheduled the A/A non-tech interview on Wednesday afternoon. And will prep with Bri on that same day in the morning. 
 Received reply for visa problem. Gina said that during the gap quarte / year, I would be illegal to say in the US. I realized the problem that those internship for large company requires me to go back to school after the internship. Or I have to apply for the full-time job. So I have to talk to the Academic Advisor to see if it is ok to change my graduate year to the next year. Also I need to check if I could have time to do CPT after the gap year. Also I have to browse some JD for last year internship. 
 
-Apr 19: 
-Sitting in the dt gleacher classrom. \n
-Taking accounting as background music. \n
-Looking around:   \n
+Apr 19: <br> 
+Sitting in the dt gleacher classrom. <br> 
+Taking accounting as background music. <br> 
+Looking around:   <br> 
 All elites with booth name tag. 
 Browsing 1acre3points. 
 Thinking: Do I really love these things? 
