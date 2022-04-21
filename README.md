@@ -16,7 +16,7 @@ Revised my resume and built my LinkedIn profile with Lina~ (Also helped her and 
 Too anxious to fall asleep at night...
 
 Apr 16: 
-Purchased a new Macbook Pro on Apple.com. It will be delivered after May 24th. Cannot wait! (\ANGRY)	<p>&#128555;</p>
+Purchased a new Macbook Pro on Apple.com. It will be delivered after May 24th. Cannot wait! (\ANGRY)	&#128555;
 Failed to complete the coding challenge for 'Hack Reacter' bootcamp, which is actually my goal for last day. But it's OK since it's on weekend. 
 
 Apr 17: 
