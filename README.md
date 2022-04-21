@@ -2,7 +2,7 @@
 
 Apr 13: 
 Talked with Yunhao. He said I can apply for the summer internship in this fall and recommend to me some data science bootcamp.
-Talked with Yu Wang. He suggested me to apply for a CS master degree. But I think that's too expensive and time-consuming. 
+Talked with Yu. He suggested me to apply for a CS master degree. But I think that's too expensive and time-consuming. 
 Ruixuan suggested me to take a gap year but I'm worried about wasting the time. 
 Connected with Dajing. She suggusted me to do some unpaid projects. But I think I need to first acquire some basic skills for coding. And I also need to begin doing Leetcode. Also very important to revise my resume and build my network!!!
 
@@ -57,3 +57,13 @@ The good thing is: At least I know what I want and a way to pursue. <br>
 我也轻而易举得到过很多别人没有机会拥有的东西<br> 
 安慰自己每一个选择都是当下最好的选择吧<br> 
 -->
+
+<b>Apr 20 Wed</b><br />
+Today I did the tech interview for Hack Reactor bootcamp. First time do live coding and talk aloud my way of thinking. I am quite sure that I can get admitted since I'm prepared and did several coding problems successfully. Though my mind went blank at first and I requested for help, I did the rest of the problems successfully. So the fact tells us I should request help once get stuck. Also I have to train myself to say aloud my thinking while coding. This is also something important in the future interview. <br>
+I posted my way of changing my career goal to SDE on 1point3acres. Suprisingly my undergraduate classmates contacted me and recommend his bro to me. He shared some information about cs program to me. Also a lot of friends contacted me through linkedIn. Hope to get more connection with them! 
+I believe I can do this. I think all the effort I have done has already persuaded myself that I am really very decided to persist on this way. And I belive that 'Nothing is impossible to a willing heart.' Also, although seeing that technical stock decreases a lot, this is still the best and almost the only way to saty in the US. 
+
+<b>Apr 21 Thu</b><br />
+Can't fall asleep again. Emailed academic advisor for the meeting at noon. 
+
+
