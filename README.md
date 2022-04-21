@@ -16,7 +16,7 @@ Revised my resume and built my LinkedIn profile with Lina~ (Also helped her and 
 Too anxious to fall asleep at night...
 
 Apr 16: 
-Purchased a new Macbook Pro on Apple.com. It will be delivered after May 24th. Cannot wait! (\ANGRY)
+Purchased a new Macbook Pro on Apple.com. It will be delivered after May 24th. Cannot wait! (\ANGRY)	<p>&#128555;</p>
 Failed to complete the coding challenge for 'Hack Reacter' bootcamp, which is actually my goal for last day. But it's OK since it's on weekend. 
 
 Apr 17: 
@@ -64,6 +64,6 @@ I posted my way of changing my career goal to SDE on 1point3acres. Suprisingly m
 I believe I can do this. I think all the effort I have done has already persuaded myself that I am really very decided to persist on this way. And I belive that 'Nothing is impossible to a willing heart.' Also, although seeing that technical stock decreases a lot, this is still the best and almost the only way to saty in the US. 
 
 <b>Apr 21 Thu</b><br />
-Can't fall asleep again. Emailed academic advisor for the meeting at noon. 
+CANNOT fall asleep again! Emailed academic advisor for the meeting at noon. 
 
 
