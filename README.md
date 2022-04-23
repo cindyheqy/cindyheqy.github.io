@@ -64,6 +64,7 @@ I posted my way of changing my career goal to SDE on 1point3acres. Suprisingly m
 I believe I can do this. I think all the effort I have done has already persuaded myself that I am really very decided to persist on this way. And I belive that 'Nothing is impossible to a willing heart.' Also, although seeing that technical stock decreases a lot, this is still the best and almost the only way to saty in the US. 
 
 <b>Apr 21 Thu</b><br />
-CANNOT fall asleep again! Emailed academic advisor for the meeting at noon. 
-
+CANNOT fall asleep again! Talked with my academic advisor at noon face to face in his office, and he said that I can withdraw from the MPP program before next fall and return back any time later (but have to apply again). He also recommended me to talk with OIA to confirm the visa problem. He also recommended me a MSCAPP staff that I can contact with. <br>
+Asked Yu and he referred Yunchen to me, who is a MPCS student with an undergraduate major in Chinese Literature. She emphasized the importance of a SDE internshiip. 
+Received a lot of connections on LinkedIn. Really appreciate everyone's kindness to me. They allocate their limited time to help me, which moves me and encourages me a lot. Also got few people to refer to when meeting difficulties. 
 
