@@ -67,7 +67,7 @@ I believe I can do this. I think all the effort I have done has already persuade
 CANNOT fall asleep again! Talked with my academic advisor at noon face to face in his office, and he said that I can withdraw from the MPP program before next fall and return back any time later (but have to apply again). He also recommended me to talk with OIA to confirm the visa problem. He also recommended me a MSCAPP staff that I can contact with. <br>
 Asked Yu and he referred Yunchen to me, who is a MPCS student with an undergraduate major in Chinese Literature. She emphasized the importance of a SDE internshiip. 
 Received a lot of connections on LinkedIn. Really appreciate everyone's kindness to me. They allocate their limited time to help me, which moves me and encourages me a lot. Also got few people to refer to when meeting difficulties. <br>
-THANKS EVERYONE WHO OFFERED HELP TO ME!
+<u><b>THANKS EVERYONE WHO OFFERED HELP TO ME!</b></u>
 
 <b>Apr 22 Fri</b><br />
 I think I spend too much time on chatting with others these days. But this might be a necessary process. I did get a lot of information and help. Just a little bit disappointed when others did not reply to me. <br>
