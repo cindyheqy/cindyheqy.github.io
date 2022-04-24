@@ -82,3 +82,4 @@ Started learning 'The Web Developer Bootcamp 2022' on Udemy. Laying on the bed f
 I started to know more about the software engineer position itself. Watched lots of videos on Youtube made by software engineers (<u>HackBear</u>). Also trying to find more people in this field to connect with on linkedIn. Hope to know more in this field. <br />
 Also contacted with some people who transfered major to cs: <u>栗子酱</u> on littleredbook (MPP-->NEU), <u>Yi(Ely) Ding</u>
 Also consulted <u>艾米丽呀</u> on littleredbook some of information about bootcamp and interviews for small company. 
+Saw a video recording the day of a software engineer: https://www.youtube.com/watch?v=5wP0KuBIrZo My Dream Life!
