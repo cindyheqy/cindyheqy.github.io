@@ -72,4 +72,13 @@ Received a lot of connections on LinkedIn. Really appreciate everyone's kindness
 
 <b>Apr 22 Fri</b><br />
 I think I spend too much time on chatting with others these days. But this might be a necessary process. I did get a lot of information and help. Just a little bit disappointed when others did not reply to me. <br>
+Received offer from Hack Reactor Bootcamp. <br>
 Began application process for MPCS master program. Deciding who to ask for recommendation letter. 
+
+<b>Apr 23 Sat</b><br />
+Started learning 'The Web Developer Bootcamp 2022' on Udemy. Laying on the bed for the most of the day. Searched how to write personal statement when applying to a new major. Emailed a youtuber named '小明转码', who learned international Relation in her first master degree. Hope to connect with her and ask her about her motivation to transfer to cs master degree. 
+
+<b>Apr 24 Sun</b><br />
+I started to know more about the software engineer position itself. Watched lots of videos on Youtube made by software engineers (<u>HackBear</u>). Also trying to find more people in this field to connect with on linkedIn. Hope to know more in this field. <br />
+Also contacted with some people who transfered major to cs: <u>栗子酱</u> on littleredbook (MPP-->NEU), <u>Yi(Ely) Ding</u>
+Also consulted <u>艾米丽呀</u> on littleredbook some of information about bootcamp and interviews for small company. 
