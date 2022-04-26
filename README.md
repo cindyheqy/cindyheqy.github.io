@@ -76,7 +76,7 @@ Received offer from Hack Reactor Bootcamp. <br>
 Began application process for MPCS master program. Deciding who to ask for recommendation letter. 
 
 <b>Apr 23 Sat</b><br />
-Started learning 'The Web Developer Bootcamp 2022' on Udemy. Laying on the bed for the most of the day. Searched how to write personal statement when applying to a new major. Emailed a youtuber named '小明转码', who learned international Relation in her first master degree. Hope to connect with her and ask her about her motivation to transfer to cs master degree. 
+Started learning 'The Web Developer Bootcamp 2022' on Udemy. Laying on the bed for the most of the day. Searched how to write personal statement when applying to a new major. Emailed a youtuber who learned international Relation in her first master degree. Hope to connect with her and ask her about her motivation to transfer to cs master degree. 
 
 <b>Apr 24 Sun</b><br />
 I started to know more about the software engineer position itself. Watched lots of videos on Youtube made by software engineers (<u>HackBear</u>). Also trying to find more people in this field to connect with. Hope to know more in this field. <br />
