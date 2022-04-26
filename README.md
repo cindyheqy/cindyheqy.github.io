@@ -84,3 +84,8 @@ I started to know more about the software engineer position itself. Watched lots
 <b>Apr 25 Mon</b><br />
 I called Ely DING. He learned my background and suggested me to: 1. take the placement exam and get a good grade. 2. connect with people in cs department face to face. 3. do some projects with hard cs tools. He also gave me a lot of advice on application details. 
 Also asked Adagio about her writing of personal statement. She suggested me to think more about the vision of computer science. 
+
+<b>Apr 26 Tue</b><br />
+Did two big things today. 
+1. Went to the office hour of Professor Jeff Levy. Talked with him my plan of becoming a software engineer. He suggested me to pursue a CS master degree (compared to attending a bootcamp or learning by myself). Because a CS degree shows as a signal that you are very dedicated to this field, both time and money. He also suggested me to learn C and do some projects using html.  <br>
+2. Went to the CS department. I REALLY LOVE BEING THERE! They all look rigorous and energetic. I love their labs. I love those tech-looking people. Wish I could be an undergraduate student majoring in computer science. I saw their notes on the whiteboard. They are really loving those codes and doing things they love. They are so energetic and full of thoughts. It gives me a feeling that those talents are discussing something that can change the world (sounds crazy). And I also really love the building, the inner design of the JCL. Mordern and fashion. Lots of discussion and learning space outside the conference room. It's easy to get lost in the building though hahahah! Also met Emma! She's so kind and suggested me to email the questions@cs.uchicago.edu. 
