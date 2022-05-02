@@ -93,3 +93,16 @@ Did two big things today.
 <!-- 
 可以研究一下怎么在文字下面划线之类的，区分我对coding的理解，和我自己生活上的一些事情
 -->
+
+<b>Apr 29 Fri</b><br />
+Had a lot of thoughts today. When I'm in the investment class, I suddenly found myself loving doing regression and those complicated calculating stuff. I kinda think myself as weird, because in previous times I never believe anyone really loves those math things. If there is someone loving theses things, then they must be weird. But finally when I found myself interested in it, I suddenly can understand this kind of feeling and think everyone is unique and has his or her own love. This also strengthens my belief to do CS. I actually have a deeper thought after today's class. 
+i see computer as an extension of my brain. I can use computer to do some stuff that my brain cannot do and I use my brain to do something more sophisticated. The most interesting and powerful part of human brain is that it has creative ideas. And we can use computers to accomplish our ideas and do precise things that our brain might be limited to process. i'm always very curious about the world. I'm not just want that high pay and good work-life balance, although it is a very big count. I have the interest, I have the capacity to do some high level computing and calculating. I have the clear target and goal. Being admitted to MPCS is an entrance for me. It opens the door for me to enter this entirely world, a world that full of everyday things but with principles that's unfamiliar with me. If I want to understand how this world operate, I have to learn CS. After entering this threshold, it will give me more chance to better explore myself. I can even do quant in Fintech company in Chicago. 
+I also thank harris that can give me chance to choose different courses (we have 12 elective courses, and can choose 6 courses from other department other than harris. ), so that I can find my interest. I think a face-to-face talk could help me explain my intention more. 
+
+
+<b>Apr 30 Sat</b><br />
+Learned css today. 
+
+<b>May 1 Sun</b><br />
+Finished learning css today. 
+Suddenly realized that I should also learn my courses well. Because my transcript could come out in June. 
