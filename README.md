@@ -107,7 +107,7 @@ Learned css today.
 Finished learning css today. 
 Suddenly realized that I should also learn my courses well. Because my transcript could come out in June. 
 
-<b>May 2 Mon</b><br />
+<b>May 2 Mon</b><br /> 101-139/503
 Today finished the accounting midterm. 
 Sent email to baihonghuan to ask for recommendation letter. Wrote nearly 2000 words. I am really a good writer. I even got moved by my motivation and journey by reading my own words. Hope he could see my email. 
 Reviewed Javascript in the web develop bootcamp. 
