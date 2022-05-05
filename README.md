@@ -107,29 +107,29 @@ Learned css today.
 Finished learning css today. 
 Suddenly realized that I should also learn my courses well. Because my transcript could come out in June. 
 
-<b>May 2 Mon</b><br /> 101-139/503
+<b>May 2 Mon</b> 101-139/503 <br />
 Today finished the accounting midterm. 
 Sent email to baihonghuan to ask for recommendation letter. Wrote nearly 2000 words. I am really a good writer. I even got moved by my motivation and journey by reading my own words. Hope he could see my email. 
 Reviewed Javascript in the web develop bootcamp. 
 Also scheduled an appointment with Shilin on friday. And registered for the info session next Thursday. Hope to meet the admission team. 
 
-<b>May 3 Tue</b><br /> 140-165/503
+<b>May 3 Tue</b> 140-165/503<br /> 
 Today i'm learning javascript in my home for the whole day. Did not see a lot of progress. 
 I think I might need to publish my own website as soon as possible. So that I could see more progress and gain more confidence.
 
-<b>May 4 Wed</b><br /> /503
+<b>May 4 Wed</b> /503 <br />
 I scheduled an interview tomorrow. It's a start-up making a school website platform for Washington University. I am sooooooo nervous. This is my first time to take a job interview. 
 
 
 
 
 
-First time to take a job interview. 
-First time to attend professor's office hour.
-First time to schedule meeting with staff. 
-First time to reach out to people and alumni on LinkedIn. 
-First time to find internship by myself. 
-First time to ask information from others and say tons of thank you. 
-When you have a goal, all of these things become normal and not so difficult. And you'll find yourself not so nervous as before. 
-I did a lot of things that I dare not to do before. 
-I'm growing stronger. 
+First time to take a job interview. <br /> 
+First time to attend professor's office hour.<br /> 
+First time to schedule meeting with staff. <br /> 
+First time to reach out to people and alumni on LinkedIn. <br /> 
+First time to find internship by myself. <br /> 
+First time to ask information from others and say tons of thank you. <br /> 
+When you have a goal, all of these things become normal and not so difficult. And you'll find yourself not so nervous as before. <br /> 
+I did a lot of things that I dare not to do before. <br /> 
+I'm growing stronger. <br /> 
