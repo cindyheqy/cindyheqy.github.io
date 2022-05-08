@@ -133,3 +133,6 @@ First time to ask information from others and say tons of thank you. <br />
 When you have a goal, all of these things become normal and not so difficult. And you'll find yourself not so nervous as before. <br /> 
 I did a lot of things that I dare not to do before. <br /> 
 I'm growing stronger. <br /> 
+
+May 8 
+Feel the importance to maintain the relationship with others. Always be kind and keep an appealing appearance to others, keep connect with others. Help others and then others can help you. 
