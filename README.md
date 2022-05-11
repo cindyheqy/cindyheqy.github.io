@@ -136,3 +136,6 @@ I'm growing stronger. <br />
 
 May 8 
 Feel the importance to maintain the relationship with others. Always be kind and keep an appealing appearance to others, keep connect with others. Help others and then others can help you. 
+
+May 10
+Having new thoughts about learning CS. At first I only value its high pay and good work-life balance. After the investment class, I thought computer science is like a window for me to look at a bigger world. Now as the project conducting, I felt that I like the way that engineers working together. We have the same goal (to make a prodect), and every one of us has the freedom to add new features to the product. And every one is so kind to each other that will help newly added members grow. And there are plenty of resources online that you can learn by yourself and improve yourself. I felt like I am always learning. 
