@@ -184,3 +184,6 @@ Though I know that this is also a little bit vague. What is better is that I hav
 Why I want to quit mpp and transfer to cs? 
 
 I came to mpp because I always have a dream to changing the unfair status of the world. I saw corruption, I saw priviledge. I have an unrealistic dream to changing this world. It is also true that by getting directly to policy world can I change this world directly according to my dream. I can do research and make policy memo to make the policy benefit more people. But as I learn public policy more and more, I gradually found this path unrealistic for me to realize my dream. I am ignorant of the basic operating logic of this world. how can i make changes when I do not know clearly about it? Also, I found that the change that I can make is limited when doing public policy. I made through research based on complete data, but it still depend on the policy leader that to accept this suggestion or not. And I will not be a policy leader with my background. On the contrary, cs provides me with more concrete way to affect this world more directly and can see effect quickly. For expample, 
+
+1 June
+Translating and finishing first draft of personal statement in English. exceed word limit. should delete more. 
