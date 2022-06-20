@@ -198,3 +198,4 @@ Also, in previous times, I am interested in data analysis, which is also a part 
 As I learn and practice more, I also have much deeper understanding of computer science. The outside of cs is programming, but the inner core of computer science is algorism. 
 Furthermore, I recognized that a lot of cutting-edge technology is the application of computer science and finance, such as block-chain, crypto, bitcoin, NTF. To lead the trend, I should acquire these skills. 
 At last, if I want to provide myself and my family with a better environment, I should get sponsorship to live in the US. And learning cs is the fastest and most famous way of doing so. 
+Sent the reconmmendation to Levy today. 
