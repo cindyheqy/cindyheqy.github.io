@@ -187,3 +187,14 @@ I came to mpp because I always have a dream to changing the unfair status of the
 
 1 June
 Translating and finishing first draft of personal statement in English. exceed word limit. should delete more. 
+
+20 June
+A lot of things happened these days. 
+Feel really frustrated when writing personal statment. It is hard for me to make up some stories. I am trying to make it real but found not so convincing. 
+So I gave myself two days of vacation, trying to figure out why I want to learn computer science. 
+I know that the initial reason for me to choose computer science is that software engineer is a high-paied job. 
+But as I learnt web development myself and made two websites, I found myself fascinated about computer science. 
+Also, in previous times, I am interested in data analysis, which is also a part of computer science. 
+As I learn and practice more, I also have much deeper understanding of computer science. The outside of cs is programming, but the inner core of computer science is algorism. 
+Furthermore, I recognized that a lot of cutting-edge technology is the application of computer science and finance, such as block-chain, crypto, bitcoin, NTF. To lead the trend, I should acquire these skills. 
+At last, if I want to provide myself and my family with a better environment, I should get sponsorship to live in the US. And learning cs is the fastest and most famous way of doing so. 
